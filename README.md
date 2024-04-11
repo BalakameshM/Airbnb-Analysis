@@ -6,23 +6,21 @@ This project analyzes Airbnb data, leveraging Python libraries for data manipula
 
 
 ## Project Highlights:
-
+```
 Explore crucial aspects of Airbnb listings such as pricing, locations, property types, and more.
 Gain insights into market trends and user behavior through interactive visualizations.
 Develop a user-friendly Streamlit app to visualize your findings in real-time.
 Create a compelling Power BI dashboard for comprehensive data exploration and presentation (optional).
-
+```
 ## Key Technologies:
-
+```
 MongoDB
 Python
 Pandas
 NumPy
-Matplotlib/Seaborn
 Streamlit
-PyMongo: A Python driver for interacting with MongoDB.
 Power BI
-
+```
 ## Project Structure:
 
 ```
