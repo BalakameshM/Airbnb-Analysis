@@ -25,6 +25,7 @@ Power BI
 
 ## Project Structure:
 
+```
 Airbnb-Analysis/
 ├── data/
 │   ├── images/
@@ -33,6 +34,7 @@ Airbnb-Analysis/
 │   ├── Airbnb Analysis.pbix
 │   └── Airbnb_analysis.py
 └── README.md
+```
     
 ## Installation:
 
