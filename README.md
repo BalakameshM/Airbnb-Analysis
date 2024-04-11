@@ -28,10 +28,10 @@ Power BI
 Airbnb-Analysis/
 ├── data/
 │   ├── images/
-│   └── screenshot-images
-├── Airbnb Analysis.ipynb
-└── Airbnb_analysis.py
-
+│   │   └── screenshot-images/
+│   ├── Airbnb Analysis.ipynb
+│   ├── Airbnb Analysis.pbix
+│   └── Airbnb_analysis.py
 └── README.md
     
 ## Installation:
