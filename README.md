@@ -1,4 +1,4 @@
-# Airbnb Analysis with Python, Streamlit, and Power BI (Optional)
+# Airbnb Analysis with Python, Streamlit, and Power BI
 
 ### Description:
 
@@ -10,7 +10,7 @@ This project analyzes Airbnb data, leveraging Python libraries for data manipula
 Explore crucial aspects of Airbnb listings such as pricing, locations, property types, and more.
 Gain insights into market trends and user behavior through interactive visualizations.
 Develop a user-friendly Streamlit app to visualize your findings in real-time.
-Create a compelling Power BI dashboard for comprehensive data exploration and presentation (optional).
+Create a compelling Power BI dashboard for comprehensive data exploration and presentation.
 ```
 ## Key Technologies:
 ```
